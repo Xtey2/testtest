@@ -4,4 +4,12 @@ Oranges
 Bananas
 Pineapples
 
+<<<<<<< HEAD
 Bananas brown very fast, brown town ma dude
+=======
+Berries
+Strawberries
+Raspberries
+Blackberries
+Blueberries
+>>>>>>> cb0eb9765eb2c9d2abeafc2bf1f6701f333d887a
